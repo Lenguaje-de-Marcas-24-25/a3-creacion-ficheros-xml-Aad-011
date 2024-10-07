@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ciudades>
+<pais nombre="España" continente="Europa">
+<ciudad>Madrid</ciudad>
+<ciudad>Barcelona</ciudad>
+</pais>
+<pais nombre="Francia" continente="Europa">
+<ciudad>París</ciudad>
+<ciudad>Marseille</ciudad>
+</pais>
+<pais nombre="Argentina" continente="América">
+<ciudad>Buenos Aires</ciudad>
+<ciudad>Córdoba</ciudad>
+</pais>
+<pais nombre="Japón" continente="Asia">
+<ciudad>Tokio</ciudad>
+<ciudad>Kioto</ciudad>
+</pais>
+</ciudades>

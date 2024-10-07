@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<hechos>
+<hecho descripcion="Primer satélite artificial en el espacio">
+<dia>4</dia>
+<mes>10</mes>
+<año>1957</año>
+</hecho>    
+<hecho descripcion="Primer humano en el espacio ">
+<dia>12</dia>
+<mes>4</mes>
+<año>1961</año>
+</hecho>
+<hecho descripcion="Primer alunizaje ">
+<dia>20</dia>
+<mes>7</mes>
+<año>1969</año>
+</hecho> 
+<hecho descripcion="Lanzamiento del telescopio espacial Hubble">
+<dia>24</dia>
+<mes>4</mes>
+<año>1990</año>
+</hecho>
+</hechos>
